@@ -1,2 +1,2 @@
 # CRUD-de-Produtos
-CRUD de Produtos utilizando Entity Framework
+CRUD de Produtos utilizando Entity Framework CodeFirst.
